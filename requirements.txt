@@ -1,0 +1,11 @@
+streamlit
+streamlit-folium
+st_pages
+pandas
+requests
+pyodbc
+extra-streamlit-components-better-cookie-manager
+barfi
+streamlit-ace
+streamlit-calendar
+SQLAlchemy
